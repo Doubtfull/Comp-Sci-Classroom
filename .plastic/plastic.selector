@@ -1,0 +1,4 @@
+repository "CS Class Model@WaterlooCS@cloud"
+  path "/"
+    br "/main"
+    co "/main"
