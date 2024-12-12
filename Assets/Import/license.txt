@@ -1,0 +1,8 @@
+Model Information:
+* title:	LJAS - Audio Recording Flight Case
+* source:	https://sketchfab.com/3d-models/ljas-audio-recording-flight-case-c71c3769c73d49688db1e3ebf368a306
+* author:	La Jarre à Son (https://sketchfab.com/la_jarre_a_son)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
